@@ -1,0 +1,71 @@
+{
+  "nodes": [
+  // Class of 2018
+    {
+      "name": "Caitlyn Booms",
+      "color": 1,
+      "id": 1
+    },
+    {
+      "name": "Paul Sweeney",
+      "color": 1,
+      "id": 2
+    },
+    {
+      "name": "Patrick LeBlanc",
+      "color": 1,
+      "id": 3
+    },
+	// Class of 2019
+	{
+      "name": "Nick Lohr",
+      "color": 1,
+      "id": 4
+    },
+	{
+      "name": "Katie Gallagher",
+      "color": 1,
+      "id": 5
+    },
+	// Class of 2020
+	{
+      "name": "Love Osunnuga",
+      "color": 1,
+      "id": 6
+    },
+	{
+      "name": "Margaret O'Brien",
+      "color": 1,
+      "id": 7
+    },
+	{
+      "name": "Sophia Kardadi",
+      "color": 1,
+      "id": 8
+    },
+	// Class of 2021
+	{
+      "name": "Alex Kokot",
+      "color": 1,
+      "id": 9
+    },
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+    },
+    {
+      "source": 1,
+      "target": 3,
+    },
+    {
+      "source": 2,
+      "target": 3,
+    },
+    {
+      "source": 3,
+      "target": 4,
+    }
+  ]
+}
